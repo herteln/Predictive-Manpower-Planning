@@ -1,4 +1,4 @@
-# Nicole Heretl — Predictive-Manpower-Planning
+# Nicole Hertel — Predictive-Manpower-Planning
 
 Predictive-Manpower-Planning
 
